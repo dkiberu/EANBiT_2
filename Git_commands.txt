@@ -1,0 +1,16 @@
+This files just contains a few of the intro git commands that are a must know.
+
+1. git init
+	Initializes the working directory to be a git repository. This is the first step whenever creating the repo from the commandline as opposed to when we are pulling a repo from github.
+
+2. git add . | git add *
+	Adds/stages all files in your working directory ready for commiting
+
+3. git add <file>
+	Only stages a specified file ready for commiting
+
+4. git rm <file>
+	removes  a file from the staging list of files to be commited
+
+5. git branch -a 
+	Lists all the branches available under a given repository.
